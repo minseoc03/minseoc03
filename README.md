@@ -24,9 +24,16 @@
   <img style="border-radius:0px" src = "https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
   <br>
   <br>
+  <h4>Frameworks</h4>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+  <br>
+  <br>
   <h4>DevOps</h4>
-  <img style="border-radius:0px" src = "https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <img style="border-radius:0px" src = "https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
   <br>
   <br>
   <h4>Tools</h4>
