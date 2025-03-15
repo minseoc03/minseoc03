@@ -33,7 +33,6 @@
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/IntelliJ%20Idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
-  <img style="border-radius:0px" src = "https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"/></a>
 </div>
 
 <div align = "center">
