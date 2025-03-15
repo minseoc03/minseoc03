@@ -1,16 +1,44 @@
-<h1 align="center">Hi 👋, I'm Minseo Choi</h1>
-<h3 align="center">An aspiring ML&DL Engineer from South Korea 🇰🇷</h3>
+<div align="center">
+  
+  # 🚀 Minseo C. &nbsp;  | &nbsp; Undergraduate CS @ JHU 🧑🏻‍💻
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseoc03&count_bg=%23001AD3&title_bg=%23000000&icon=python.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=true)](https://hits.seeyoufarm.com) 
+  
+ <!-- ![Hello](https://github-readme-stats.vercel.app/api?username=410-dev&count_private=true&show_icons=true&theme=tokyonight)<br> -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseoc03&count_private=true&layout=compact&theme=tokyonight)
+  
+</div>
 
-- 🔭 I’m currently studying in **Johns Hopkins University**
+<div align = "center"> 
+  
+  ## Tech Stacks  
+  <h4>Languages</h4>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+  <br>
+  <br>
+  <h4>Webs</h4>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <br>
+  <br>
+  <h4>DevOps</h4>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+  <br>
+  <br>
+  <h4>Tools</h4>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/IntelliJ%20Idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"/></a>
+</div>
 
-- 📝 I regularly write articles on [minseoc03.notion.site/index](minseoc03.notion.site/index)
-
-- 📫 How to reach me **cfi3288@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/minseo-choi-85765a1b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/minseo-choi-85765a1b0/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<div align = "center">
+  
+  ## Reach Me
+  
+  [![Blog Badge](http://img.shields.io/badge/Blog-black?style=for-the-badge&logo=notion&link=https://minseoc03.notion.site/index)]([https://me.hysong.dev/](https://minseoc03.notion.site/index)) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/hoyoun-song-792670228/](https://www.linkedin.com/in/minseo-choi-85765a1b0/))]([https://www.linkedin.com/in/hoyoun-song-792670228/](https://www.linkedin.com/in/minseo-choi-85765a1b0/)) [![Mail](https://img.shields.io/badge/Mail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cfi3288@gmail.com)](mailto:cfi3288@gmail.com)
+</div>
