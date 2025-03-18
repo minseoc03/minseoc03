@@ -33,7 +33,6 @@
   <br>
   <h4>DevOps</h4>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <img style="border-radius:0px" src = "https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
   <br>
   <br>
   <h4>Tools</h4>
