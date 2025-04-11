@@ -26,6 +26,7 @@
   <br>
   <h4>Frameworks</h4>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
