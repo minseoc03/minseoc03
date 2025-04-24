@@ -34,10 +34,11 @@
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
   <br>
   <br>
+  <!--
   <h4>DevOps</h4>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <br>
-  <br>
+  <br> -->
   <h4>Tools</h4>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
