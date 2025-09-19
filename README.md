@@ -46,8 +46,4 @@
 </div>
 
 <div align = "center">
-  
-  ## Reach Me
-  
-  [![Blog Badge](http://img.shields.io/badge/Blog-black?style=for-the-badge&logo=notion&link=https://minseoc03.notion.site/index)]([https://me.hysong.dev/](https://minseoc03.notion.site/index)) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/hoyoun-song-792670228/](https://www.linkedin.com/in/minseo-choi-85765a1b0/))]([https://www.linkedin.com/in/hoyoun-song-792670228/](https://www.linkedin.com/in/minseo-choi-85765a1b0/)) [![Mail](https://img.shields.io/badge/Mail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cfi3288@gmail.com)](mailto:cfi3288@gmail.com)
-</div>
+
