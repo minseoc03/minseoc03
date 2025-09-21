@@ -28,10 +28,14 @@
   <img style="border-radius:0px" src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
   <!-- <img style="border-radius:0px" src = "https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a> -->
   <img style="border-radius:0px" src = "https://img.shields.io/badge/llvm-262D3A?style=for-the-badge&logo=llvm&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/optuna-002C76?style=for-the-badge&logo=optuna&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/hydra-013243?style=for-the-badge&logo=optuna&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
   <br>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Matplotlib-002C76?style=for-the-badge&logo=optuna&logoColor=white"/></a>
   <br>
   <br>
   <!--
@@ -40,9 +44,8 @@
   <br>
   <br> -->
   <h4>Tools</h4>
-  <img style="border-radius:0px" src = "https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/></a>
   <img style="border-radius:0px" src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
-  <img style="border-radius:0px" src = "https://img.shields.io/badge/IntelliJ%20Idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  <img style="border-radius:0px" src = "https://img.shields.io/badge/Visual%20Studio-9013FE?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 </div>
 
 <div align = "center">
