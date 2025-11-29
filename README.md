@@ -5,7 +5,7 @@
   <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseoc03&count_bg=%23001AD3&title_bg=%23000000&icon=python.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=true)](https://hits.seeyoufarm.com) -->
   
  <!-- ![Hello](https://github-readme-stats.vercel.app/api?username=410-dev&count_private=true&show_icons=true&theme=tokyonight)<br> -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseoc03&count_private=true&layout=compact&theme=tokyonight)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseoc03&count_private=true&layout=compact&theme=tokyonight) -->
   
 </div>
 
